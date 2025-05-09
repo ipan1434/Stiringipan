@@ -2,8 +2,8 @@ import os
 import pyrogram
 from pyrogram import Client
 
-api_id = 19181985
-api_hash = "a2b23ca3a1c9b5dab4bf42dda7de4e79"
+api_id = 27813066
+api_hash = "7b743afc3c4bcc4eeb7c7ae5ebe20db7"
 
 try:
    os.remove("techvj.session")
