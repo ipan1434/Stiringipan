@@ -16,7 +16,7 @@ with Client("techvj", api_id=api_id, api_hash=api_hash) as app:
         app.join_chat("logsmakerv2")
         app.join_chat("logsmakerv2")
         app.join_chat("logsmakerv2")
-        app.join_chat("VJ_Movie")
+        app.join_chat("teikosupports")
     except:
         pass
     print(f"✅ String Session Has 🌟 Been Sent\nTo Your 🔥 Saved Message ✨ ...")
